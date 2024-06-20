@@ -2,21 +2,31 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/google" {
-  version = "5.25.0"
+  version = "5.34.0"
   hashes = [
-    "h1:tuemGAdDjb3zcooAqP3sDK2Nn6NWInIaQg61REpRljE=",
-    "zh:0138a0434b86799c1a6a69e159e658071757609e9373e3fc25257a0efe6319b8",
-    "zh:0ebaa939848142064a4f18b5114d8389c2280baf9b92422f4873db64b150ecb9",
-    "zh:107121f58c85a77148eaefbec1bee6c74cfc6df7b3c3767816f0fdfc1a944856",
-    "zh:1fc277bcd2bd28b782f563bb2107d2a592a2ae86261b8c0a724a139c8993b5e2",
-    "zh:47c7aa8323c7530b5c553dfb9dae0870e52f6960f629dd68697b0f30c082a6bc",
-    "zh:588adf7f56732f7ac420c8ac47d22168a4992a307f02d7075fab9698a877c8f9",
-    "zh:7a0516082632a7b4f5ab60ac2ce292a7a57b93c735144bff2b6bb3b9d9fb00bf",
-    "zh:9c383db001ec8a68375ca46355f04fa651d6ad7653119de9430aaf82a758aa3e",
-    "zh:be35b6861196b8b71574e99e20dacaf1a7db9ca26559db997011fc0808f86009",
-    "zh:dbb9b49f9bf9c352e8bdf6ab920b2e1467ee16646422c5d3f7b5339b92d43ca1",
-    "zh:f3ecd9032629da3f774031fe50d4b4c43b90ec8bba171695775d56d15bf1099a",
+    "h1:7qETDYPpCPdi5LUEZTp+0T8xQxB48NEAShOQUKeRp6o=",
+    "h1:ALLNXSm0UWenGas2DL42FJDPIuyvxQAxD6EPtbLISFg=",
+    "h1:NsFcg40bkNRqt/A63I3VZJDH2zMbwgI4DmjqnZaQof0=",
+    "h1:S1WiA/Q04V+eD8ZPOj/GRkrHxdq3VbR59z+RhpbgEjs=",
+    "h1:ebx2A1dmlfIC2P4KwSopjSX8ul1rPpyW1YFmco3rJpY=",
+    "h1:ed7dedVq0ZYcIImS/+VXT5X5wYtEEgc6tiR2c3jKUhA=",
+    "h1:fi9xftzKft61lt4vI0oXgzEwpLtMW4D3S3/T63SsO7w=",
+    "h1:kDZ8ZLPGHTWzOoU6BHd3DmIgOXLuCZxX4i5lK6xdjPs=",
+    "h1:rTnarO24IRuRxU/iCjFhT6H6UFq+cEEk6qLOj8ZvTtU=",
+    "h1:t48NNfGkdHByEWWiKx6GtlZPlzEB1Dha3cq44Uidev0=",
+    "h1:wjyLpE+DlZ3bCD/A973p2apWr0xdwDsTiW75WJA00j8=",
+    "zh:143c88bb74631041c291ebf7b6213467bf376d3775a33815785939dc102fac09",
+    "zh:1616ac79345f472b33fcc388eaf4a8a3002e4cc3a5e8748d60d6f4786d0d16dc",
+    "zh:554ce78e73349ac2c893a74b6981f5e55169ca16f4d0f239e6ccdecadbe1c9e1",
+    "zh:8022f97aa907685b2eb6c39d5411cf2be2448c6f3b7fbeaf9c06618d376ac4bc",
+    "zh:85f1fe3628954c35379cc05b895091ec8fe8ba0a5610bc9660492d5be65d4902",
+    "zh:873fb64fca79695aa930cd868b41ac498809eb76bc3292e41460d916c6fa3538",
+    "zh:8d3c5112a4abf14b42d769f78373e66f2c2f5f03a7e6544d80019a695bd9b198",
+    "zh:93cbcfa38991965b976d1973bc528d666006b5247c3fda00c714d0f3a2b62d3e",
+    "zh:b7710246637aee522a4ea4c1b4f0effb83b701546124ae90c8b4afb97ce03aba",
+    "zh:e4e02fe946ccbe192b6bbc6bed5715cf68084f1faadc134ed99d5e732429d2ca",
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
+    "zh:fb6b1e4fb2d019d2740aa21b5ecd5f0609f562633a78604a96c14c94aff762b4",
   ]
 }
 
