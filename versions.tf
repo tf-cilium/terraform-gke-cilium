@@ -2,7 +2,7 @@ terraform {
   required_providers {
     google = {
       source  = "hashicorp/google"
-      version = "5.25.0"
+      version = "6.49.2"
     }
     cilium = {
       source  = "littlejo/cilium"
